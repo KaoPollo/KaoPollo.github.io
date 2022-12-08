@@ -108,7 +108,7 @@ background: radial-gradient(circle, rgba(131,58,180,1) 0%, rgba(199,0,0,1) 50%);
 .icons-social :hover {
     color: darkblue;
     transition-duration: 0.5s;
-    transform: scale(1.40);
+    transform: scale(1.50);
 }
 
 .icons-social a svg path{
