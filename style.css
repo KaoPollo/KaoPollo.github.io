@@ -112,3 +112,7 @@ background: radial-gradient(circle, rgba(131,58,180,1) 0%, rgba(199,0,0,1) 50%);
 .icons-social a svg path{
 	fill: #FAFAFA;
 }
+
+.intro:hover {
+    font-family: 'Press Start 2P', cursive;
+}
