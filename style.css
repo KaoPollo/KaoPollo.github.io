@@ -1,3 +1,8 @@
+body {
+    background-image: url(images/fond\ bis.jpg);
+}
+
+
 /* CSS RESET */
 
     html {
@@ -50,7 +55,8 @@ html {
 }
 
 .icons-social i {
-    font-size: 3em;   
+    font-size: 3em;
+    color: black;   
 }
 
 /* Postion */
@@ -97,16 +103,14 @@ main > .tagline {
 
 /* THEME */
 
-main {
-	background: rgb(131,58,180);
-background: radial-gradient(circle, rgba(131,58,180,1) 0%, rgba(199,0,0,1) 50%);}
+
 
 .icons-social a {
 	color: #FAFAFA;
 }
 
 .icons-social :hover {
-    color: darkblue;
+    color: goldenrod;
     transition-duration: 0.5s;
     transform: scale(1.50);
 }
@@ -114,4 +118,6 @@ background: radial-gradient(circle, rgba(131,58,180,1) 0%, rgba(199,0,0,1) 50%);
 .icons-social a svg path{
 	fill: #FAFAFA;
 }
+
+
 
